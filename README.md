@@ -1,4 +1,4 @@
-# DUSKO
+# DUSKO-Light
 Øvelse i layout med CSS grid!!!
 
 ## Opgave
