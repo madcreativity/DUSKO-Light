@@ -1,15 +1,16 @@
 # DUSKO
-Øvelse i layout med CSS grid og modulær CSS!!!
+Øvelse i layout med CSS grid!!!
 
 ## Opgave
-Forsiden til DUSKO's hjemmeside skal kodes med HTML og CSS. Du skal gøre brug af modulær CSS (Atomic/SMACSS) og meget gerne også BEM.
-Siden skal sættes op med et CSS grid.
+Forsiden til DUSKO's hjemmeside skal kodes med HTML og CSS. 
+Du skal primært gøre brug af CSS grid layout modulet.
 
 > ### Tænk over
 > * Din HTML skal sættes op, så den giver mening i forhold til indholdet.  
 >   * dvs. at du skal bruge semantiske HTML-tags og indholdsflowet på siden skal være logisk.
-> * Hvordan skal dit grid sættes op, så det kan bruges både på små og store skærme
 > * Hvilke moduler er der på siden
+
+> * __Ekstra__ Sæt dit grid op, så det kan bruges både på små og store skærme
 
 ## Arbejdsform
 * Du skal arbejde alene.
@@ -17,5 +18,6 @@ Siden skal sættes op med et CSS grid.
 * Lav ofte og mange commits/push med dine ændringer
 * Når du vil aflevere, skal du lave en pull-request til dette repository fra din egen fork.
 
-## Weekendarbejde
-* Du skal klippe hæk (igen)
+## Ferie Opgave
+* Du kan med fordel gøre projektet færdigt i vinterferien, det vil hjælpe dig til ikke at komme alt
+for langt væk fra koderne, forud for det selvstændige projekt i uge 9.
