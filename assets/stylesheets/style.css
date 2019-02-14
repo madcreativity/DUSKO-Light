@@ -1,0 +1,117 @@
+/* CSS RESETS */
+body {
+    margin: 0;
+}
+
+/* Figure */
+figure {
+    margin: 0;
+    width: 100%;
+    line-height: 0;
+}
+
+figure img {
+    max-width: 100%;
+    box-shadow: 3px 3px 12px 1px rgba(0, 0, 0, 0.5);
+}
+
+/* Section */
+section {
+    position: relative;
+}
+
+
+/* Headings */
+h1 {
+    font-size: 3em;
+    font-family: Verdana;
+    font-weight: bold;
+    margin: 0;
+}
+
+/* Main grid */
+main {
+    display: grid;
+    grid-gap: 35px;
+    grid-template-columns: 1.4fr 1fr;
+    padding: 0 10px;
+}
+
+/* Nav */
+nav ul {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+nav li {
+    margin: 25px 15px;
+}
+
+nav li a {
+    text-decoration: none;
+    color: black;
+    font-size: 1em;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* Product container */
+.grid-product-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 35px 20px;
+    margin-top: 40px;
+}
+
+.grid-product-container h1 {
+    grid-column: 1 / 4;
+    margin: 0;
+}
+
+/* Aside */
+aside {
+    height: 100%;
+    background-color: #303030;
+    color: white;
+    position: relative;
+    top: 45px;
+}
+
+aside h1 {
+    width: 100%;
+    padding-top: 60px;
+    position: relative;
+    z-index: 2;
+}
+
+aside p {
+    width: 60%;
+    margin-top: 60px;
+    position: absolute;
+    right: 40px;
+}
+
+
+/* Misaligned button */
+.misaligned-button {
+    text-decoration: none;
+    padding: 6px 18px;
+    background-color: #111111;
+    color: white;
+    font-family: Verdana;
+    font-weight: bold;
+    font-size: 1em;
+    position: absolute;
+    top: 30px;
+    left: 60%;
+    z-index: 3;
+}
+
+/* Grid breaking image */
+#grid-break-image {
+    position: relative;
+    z-index: 1;
+    width: 120%;
+}
