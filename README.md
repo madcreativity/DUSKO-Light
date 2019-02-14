@@ -19,5 +19,5 @@ Du skal primært gøre brug af CSS grid layout modulet.
 * Når du vil aflevere, skal du lave en pull-request til dette repository fra din egen fork.
 
 ## Ferie Opgave
-* Du kan med fordel gør projektet færdigt i vinterferien, det vil hjælpe dig til ikke at komme alt
-for langt væk fra koderne.
+* Du kan med fordel gøre projektet færdigt i vinterferien, det vil hjælpe dig til ikke at komme alt
+for langt væk fra koderne, forud for det selvstændige projekt i uge 9.
