@@ -20,4 +20,4 @@ Du skal primært gøre brug af CSS grid layout modulet.
 
 ## Ferie Opgave
 * Du kan med fordel gøre projektet færdigt i vinterferien, det vil hjælpe dig til ikke at komme alt
-for langt væk fra koderne, forud for det selvstændige projekt i uge 9.
+for langt væk fra koderne. Det vil gøre det nemmere for dig, at komme godt igang med det selvstændige projekt i uge 9.
